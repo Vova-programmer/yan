@@ -28,7 +28,7 @@ body {
 .shelves {
   width: 220px;
   height: 431px;
-  background-image: url('img/shop-background.png');
+  background-image: url('shop-background.png');
   background-size: cover;
   position: relative;
   margin-bottom: 20px;
